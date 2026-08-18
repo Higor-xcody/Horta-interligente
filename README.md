@@ -2,25 +2,25 @@
 
 Aplicativo multiplataforma desenvolvido com **FlutterFlow + Flutter + Supabase** para auxiliar no gerenciamento de uma horta, organizando canteiros, cultivos e informações relacionadas ao acompanhamento e à colheita.
 
-## ✨ Visão geral
+##  Visão geral
 
 O projeto utiliza uma aplicação Flutter gerada pelo FlutterFlow, com integração ao Supabase para autenticação, banco de dados e armazenamento. A estrutura inclui telas para gerenciamento de canteiros, cronograma de colheita, componentes de edição e controle de acesso.
 
-## 🚀 Funcionalidades identificadas no projeto
+## Funcionalidades identificadas no projeto
 
-- 🌱 Gerenciamento de canteiros.
-- 📝 Criação e edição de informações dos canteiros.
-- 🧺 Organização de colheitas.
-- 📅 Cronograma de colheita.
-- 👤 Estrutura de usuários e autenticação.
-- 🔐 Tela de verificação de senha.
-- ☁️ Integração com Supabase Database e Storage.
-- 📡 Verificação de conexão com a internet.
-- 🌐 Suporte à execução Web e aplicativos Android/iOS.
-- 🌓 Suporte a tema claro e escuro.
-- 🇧🇷 Interface configurada para português.
+-  Gerenciamento de canteiros.
+-  Criação e edição de informações dos canteiros.
+-  Organização de colheitas.
+-  Cronograma de colheita.
+-  Estrutura de usuários e autenticação.
+-  Tela de verificação de senha.
+-  Integração com Supabase Database e Storage.
+-  Verificação de conexão com a internet.
+-  Suporte à execução Web e aplicativos Android/iOS.
+-  Suporte a tema claro e escuro.
+-  Interface configurada para português.
 
-## 🧰 Tecnologias
+##  Tecnologias
 
 - **Flutter**
 - **Dart**
